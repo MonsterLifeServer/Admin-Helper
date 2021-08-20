@@ -1,16 +1,47 @@
-# 運営補佐用
-## 非公式WIKIの管理
+<h1 align="center">運営補佐用</h1>
+
+## 新非公式WIKI
 - 非公式WIKIはブログと同じエリア内に設置されており、下記URLにて閲覧可能です。
+
 [https://www.mlserver.xyz/blog/wiki/](https://www.mlserver.xyz/blog/wiki/)
 - 非公式WIKIの管理にはメールアドレスが必要です。
+
+## ログインについて
 - ログイン方法は二種類あります。
 
 ### 画面下にメニューバーがある場合
 - メニューバーからサイドバーを選んでクリック(タップ)してください。
 - 表示されたサイドメニューの最下部にあるメタ情報からログインをクリック(タップ)してください。
 - ログイン画面に移動するので初期は運営から与えられたパスワードと申請したメールアドレスでログイン可能です。
-![xUJuDHPHgqOa3yH4gtgYqWEpc6s2/nma3ELtsTD1XUy4o.jpg](https://firebasestorage.googleapis.com:443/v0/b/type-c1c71.appspot.com/o/xUJuDHPHgqOa3yH4gtgYqWEpc6s2%2Fnma3ELtsTD1XUy4o.jpg?alt=media&token=9cb4863b-4fe0-47c9-a6f3-adbab8170882)
+
+![2caae1bc7b4ce502d7584029ece7d54d.png](https://i.gyazo.com/2caae1bc7b4ce502d7584029ece7d54d.png)
 
 ### 画面横にサイドメニューが表示されている場合
 - サイドメニュー最下部にあるメタ情報からログインをクリック(タップ)してください。
 - ログイン画面に移動するので初期は運営から与えられたパスワードと申請したメールアドレスでログイン可能です。
+
+![9d1498474434ab625f07699c29cdfccd.png](https://i.gyazo.com/9d1498474434ab625f07699c29cdfccd.png)
+
+## 新規投稿について
+- ログインするとダッシュボード画面に移動します。
+
+※ダッシュボードのあらゆるリンクは触らないで下さい。
+![6527a5f94c10cb64ae6185663db65349.png](https://i.gyazo.com/6527a5f94c10cb64ae6185663db65349.png)
+- ダッシュボード上部の`✙ 新規`を選択してください。
+
+![dc907835bf746aac52c9cb1a64715cd7.png](https://i.gyazo.com/dc907835bf746aac52c9cb1a64715cd7.png)
+- いくつかの項目が表示されるのでWIKIを選択してください。
+
+![70b3b2ae192771eab44ee9bf9b837b70.png](https://i.gyazo.com/70b3b2ae192771eab44ee9bf9b837b70.png)
+- 移動先のページでタイトルと本文を書いてください。
+
+![e9bec2362631f068c28f3378aae1b3d6.png](https://i.gyazo.com/e9bec2362631f068c28f3378aae1b3d6.png)
+
+## パーマリンクについて
+- タイトルを入力すると下部にURLが表示されます。これを**パーマリンク**と呼びます。
+- タイトルは基本的に日本語になると思われますが、必ずURLは半角英数字やハイフン(-)で表示してください。
+- パーマリンクの設定方法はリンク横の編集を押してください。
+- 設定は分かりやすい英語を使いましょう。
+  - タイトルが「青鬼ゲームシリーズについて」なら`about-aooni-game-series`などです。
+
+![e3ead4043c53289bcf2cbd3374e92bad.png](https://i.gyazo.com/e3ead4043c53289bcf2cbd3374e92bad.png)
